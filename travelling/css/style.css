@@ -267,7 +267,7 @@ a{
 }
 
 .navbar .navbar-nav {
-  margin-left: 20rem;
+  margin-left: 15rem;
 }
 
 .navbar .navbar-nav .nav-link {
@@ -1488,7 +1488,7 @@ footer{
 ====================================== */
 .fleet-section{
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
 }
 .fleet-section .heading{
   font-size: 60px;
@@ -1504,7 +1504,7 @@ footer{
   font-size: 18px;
   color: #202020;
 }
-.fleet-section .row-1, .row-2, .row-3{
+.fleet-section .row-1, .row-2 {
   margin-bottom: 80px;
 }
 .fleet-section .card{
